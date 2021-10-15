@@ -1,0 +1,104 @@
+{
+    "tags": " Safe, secure and private. Experience the new way of convenience.",
+
+    "messages": [
+        {
+            "id": 15,
+            "message": "Payments online. Life is made so much easier and simply delightful."
+        },
+        {
+            "id": 16,
+            "message": "We bring convenience right into your hands. Time is money after all."
+        },
+        {
+            "id": 17,
+            "message": "Bill payments online! Life is made so much easier and simple delightful."
+        },
+        {
+            "id": 18,
+            "message": "We are helping to make it, send it and spend it for millions of customers."
+        }
+    ],
+
+    "tag": "Indigoo solutions is a Zimbabwean e-commerce platform that provides reliable, safe and convenient digital solutions to both customers and service providers, bridging the gap between producers and consumers while thriving to promote value addition",
+   
+    "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices dictum amet in sed felis egestas. Fermentum dictum nulla ut gravida. Hac viverra duis urna egestas nunc. Varius quis egestas integer donec blandit porttitor. Massa odio aliquet suspendisse vitae",
+    
+    "mission": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices dictum amet in sed felis egestas. Fermentum dictum nulla ut gravida. Hac viverra duis urna egestas nunc. Varius quis egestas integer donec blandit porttitor. Massa odio aliquet suspendisse vitae",
+    
+    "goals": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices dictum amet in sed felis egestas. Fermentum dictum nulla ut gravida. Hac viverra duis urna egestas nunc. Varius quis egestas integer donec blandit porttitor. Massa odio aliquet suspendisse vitae",
+
+    "submessage": "make a payment with peace of mind",
+    
+    "broadband": [
+        {
+            "id": 1,
+            "name": "Telone"
+        },
+        {
+            "id": 2,
+            "name": "Zol internet packages"
+        }
+    ],
+
+    "utilities": [
+        {
+            "id": 3,
+            "name": "Zesa"
+        },
+        {
+            "id": 4,
+            "name": "Municipality"
+        },
+        {
+            "id": 5,
+            "name": "City Council"
+        }
+    ],
+    "insuarance": [
+        {
+            "id": 6,
+            "name": "Motor vehicle"
+        },
+        {
+            "id": 7,
+            "name": "Home"
+        },
+        {
+            "id": 8,
+            "name": "Life"
+        }
+    ],
+    "tuition": [
+        {
+            "id": 9,
+            "name": "Schools"
+        },
+        {
+            "id": 10,
+            "name": "Colleges"
+        },
+        {
+            "id": 11,
+            "name": "Universities"
+        }
+    ],
+    "airtime": [
+        {
+            "id": 12,
+            "name": "Econet"
+        },
+        {
+            "id": 13,
+            "name": "Netone"
+        },
+        {
+            "id": 14,
+            "name": "Telecel"
+        }
+    ],
+
+    "mobilewifi": "Mobile internet bundle"
+    
+    }
+
