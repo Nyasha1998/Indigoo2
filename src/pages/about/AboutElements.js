@@ -18,7 +18,7 @@ export const Left = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  margin-left: 2rem;  
+  margin-left: 4rem;  
   text-style: none;
   margin-top: 2.1
 `
@@ -69,7 +69,7 @@ export const LowerLayer = styled.div`
 
 
 export const Products = styled.div`
-  padding: 2rem 2rem 2rem 2rem;
+  padding: 2rem 5rem 2rem 5rem;
   background-color: #2157A0;
 `
 

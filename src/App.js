@@ -6,8 +6,8 @@ import Home from './components/landingpage/Home';
 import Index from './pages/about/Index';
 import Faq from './pages/Faq';
 import Contact from './pages/Contact';
-import Login from './pages/Login';
-import SignUp from './pages/SignUp';
+
+
 
 const App = () => {
     return (
@@ -16,11 +16,9 @@ const App = () => {
        <Header />    
        <Switch>
          <Route path='/' exact component={Home} />
-         <Route path='/about' component={Index} />
+         <Route path='/about' component={Index} />  
          <Route path='/faq' component={Faq} />
          <Route path='/get-in-touch' component={Contact} />
-         <Route path='/login' component={Login} />
-         <Route path='sign-up' component={SignUp} />
        </Switch>
     </Router>
     </div>

@@ -73,11 +73,15 @@ export const NavBtn1 = styled.nav`
   display: inline;
 
   
-  @media screen and (max-width: 768) {
+  @media screen and (max-width: 768px) {
       display: none;
   }
 `
-export const NavBtn2 = styled.nav``
+export const NavBtn2 = styled.nav`
+  @media screen and (max-width: 768px) {
+    display: none;
+  }
+`
 
 export const NavBtnLink = styled(Link)`
   border-radius: 4px;

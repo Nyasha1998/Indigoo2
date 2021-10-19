@@ -9,14 +9,20 @@ background-position: center; /* Center the image */
 
 `   
 
-export const Tag = styled.div``
+export const Tag = styled.div`
+  display: flex;
+  flex-direction: column;
+
+
+  padding: 2rem 1rem 2rem 4rem;
+`
 
 export const Illustrator = styled.div``
 
 export const UpperLayer = styled.div`
   display: flex;
   flex-direction: row; 
-  padding: 2rem 2rem 2rem 2rem;
+  padding: 2rem 1rem 2rem 2rem;
   
   @media screen and (max-width: 768px) {
       display: flex;
@@ -25,7 +31,7 @@ export const UpperLayer = styled.div`
 `
 
 export const LowerLayer = styled.div`
-  padding: 2rem 2rem 2rem 2rem;
+  padding: 2rem 5rem 2rem 5rem;
   background-color: #2157A0;
 `
 

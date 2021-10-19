@@ -1,5 +1,7 @@
 import React from 'react'
 import logo from '../../logo.png'
+import Signup from '../signup/Signup' 
+import Login from '../login/Login' 
 import {
   Container,
   Nav,
@@ -8,7 +10,6 @@ import {
   NavMenu,
   NavBtn1,
   NavBtn2,
-  NavBtnLink,
 } from './HeaderElements';
 
 
@@ -37,10 +38,10 @@ function Header() {
       </NavLink>
       </NavMenu>
       <NavBtn1>
-        <NavBtnLink to='/login'>Login</NavBtnLink>
+        <Login />
       </NavBtn1>
       <NavBtn2>  
-        <NavBtnLink to='/sign-up'>Sign Up</NavBtnLink>
+        <Signup />
       </NavBtn2>
     </Container>
     </>  
